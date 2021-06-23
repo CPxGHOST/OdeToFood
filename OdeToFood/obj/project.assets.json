@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "OdeToFood.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/OdeToFood.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.core.dll": {}
+        }
+      },
+      "OdeToFood.data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "OdeToFood.core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OdeToFood.data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OdeToFood.data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OdeToFood.core/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.core/OdeToFood.core.csproj",
+      "msbuildProject": "../OdeToFood.core/OdeToFood.core.csproj"
+    },
+    "OdeToFood.data/1.0.0": {
+      "type": "project",
+      "path": "../OdeToFood.data/OdeToFood.data.csproj",
+      "msbuildProject": "../OdeToFood.data/OdeToFood.data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "OdeToFood.data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\": {},
@@ -38,7 +75,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Rough Work\\OdeToFood\\OdeToFood.data\\OdeToFood.data.csproj": {
+              "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.data\\OdeToFood.data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

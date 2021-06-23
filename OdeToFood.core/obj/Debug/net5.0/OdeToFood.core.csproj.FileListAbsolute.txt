@@ -1,0 +1,12 @@
+D:\Rough Work\OdeToFood\OdeToFood.core\bin\Debug\net5.0\OdeToFood.core.deps.json
+D:\Rough Work\OdeToFood\OdeToFood.core\bin\Debug\net5.0\OdeToFood.core.dll
+D:\Rough Work\OdeToFood\OdeToFood.core\bin\Debug\net5.0\ref\OdeToFood.core.dll
+D:\Rough Work\OdeToFood\OdeToFood.core\bin\Debug\net5.0\OdeToFood.core.pdb
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.csproj.AssemblyReference.cache
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.AssemblyInfoInputs.cache
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.AssemblyInfo.cs
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.csproj.CoreCompileInputs.cache
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.dll
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\ref\OdeToFood.core.dll
+D:\Rough Work\OdeToFood\OdeToFood.core\obj\Debug\net5.0\OdeToFood.core.pdb

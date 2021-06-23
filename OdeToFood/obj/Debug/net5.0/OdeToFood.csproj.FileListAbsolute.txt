@@ -38,3 +38,8 @@ D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\ref\OdeToFood.dll
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.CopyComplete
+D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaraunts\List.cshtml.g.cs
+D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.core.dll
+D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.data.dll
+D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.data.pdb
+D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.core.pdb
