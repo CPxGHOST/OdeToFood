@@ -31,13 +31,6 @@ namespace OdeToFood.data
             };
         }
 
-        //public IEnumerable<Restaurant> GetAll()
-        //{
-        //    return from r in this.restaurants
-        //           orderby r.Name
-        //           select r;
-        //}
-
         public IEnumerable<Restaurant> GetRestaurantByName(string name = null) { 
             
             return from r in this.restaurants
