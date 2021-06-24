@@ -5,7 +5,7 @@
 
 
 <div>
-    <h1>@Model.Message2</h1>
+    
 </div>
 
     <form method="get">
@@ -27,18 +27,22 @@
            <th>Location</th>
            <th>Cuisine</th>
            <th></th>
+           <th></th>
        </tr>
    </thead>
     <tbody>
         @foreach (var restaurant in Model.Restaurants) { 
-            <tr>
-                <td>@restaurant.Name</td>
-                <td>@restaurant.Location</td>
-                <td>@restaurant.Cuisine</td>
-                <td>
-                    <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId ="@restaurant.ID">Find Out More</a>
-                </td>
-            </tr>
+        <tr>
+            <td>@restaurant.Name</td>
+            <td>@restaurant.Location</td>
+            <td>@restaurant.Cuisine</td>
+            <td>
+                <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId="@restaurant.ID">Find Out More</a>
+            </td>
+            <td>
+                <a class="btn btn-dark" asp-page="./EditRestaurant" asp-route-restarauntId="@restaurant.ID">Edit Details</a>
+            </td>
+        </tr>
         }
     </tbody>
 </table>
