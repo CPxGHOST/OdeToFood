@@ -13,6 +13,8 @@ namespace OdeToFood.data
         //public IEnumerable<Restaurant> GetAll();
 
         public IEnumerable<Restaurant> GetRestaurantByName(string name);
+
+        public Restaurant GetRestaurantById(int id);
             
     }
 
@@ -42,8 +44,12 @@ namespace OdeToFood.data
                    where String.IsNullOrEmpty(name) || r.Name.StartsWith(name)
                    select r;
         }
-        
 
+        public Restaurant GetRestaurantById(int id) {
+
+            return this.restaurants.SingleOrDefault(r => r.ID == id);
+        
+        }
     }   
 
 

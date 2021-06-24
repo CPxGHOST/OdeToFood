@@ -5,15 +5,30 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using OdeToFood.core;
+using OdeToFood.data;
 
 namespace OdeToFood.Pages.Restaraunts
 {
     public class DetailModel : PageModel
     {
+        private readonly IRestaurantData restaurantData;
+
         public Restaurant Restaurant { get; set; }
-        public void OnGet()
+
+        public int RestrauntId { get; set; }
+
+        public DetailModel(IRestaurantData restaurantData) {
+            this.restaurantData = restaurantData;
+        }
+
+        public IActionResult OnGet(int restarauntId)
         {
-            this.Restaurant = new Restaurant();
+            this.Restaurant = restaurantData.GetRestaurantById(restarauntId);
+            if (Restaurant == null) {
+                return RedirectToPage("./NotFound");
+            }
+
+            return Page();
         }
     }
 }

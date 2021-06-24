@@ -1,4 +1,4 @@
-﻿@page
+﻿@page  "{restarauntId:int}"
 @model OdeToFood.Pages.Restaraunts.DetailModel
 @{
     
@@ -17,4 +17,5 @@
     Cuisine Type : @Model.Restaurant.Cuisine;
 </div>
 
-<a asp-page="./List" class="btn btn-light">All Restraunts</a>
+<a asp-page="./List"
+   class="btn btn-light">All Restraunts</a>

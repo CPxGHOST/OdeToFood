@@ -26,6 +26,7 @@
            <th>Name</th>
            <th>Location</th>
            <th>Cuisine</th>
+           <th></th>
        </tr>
    </thead>
     <tbody>
@@ -34,6 +35,9 @@
                 <td>@restaurant.Name</td>
                 <td>@restaurant.Location</td>
                 <td>@restaurant.Cuisine</td>
+                <td>
+                    <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId ="@restaurant.ID">Find Out More</a>
+                </td>
             </tr>
         }
     </tbody>
