@@ -5,44 +5,48 @@
 
 
 <div>
-    
+
 </div>
 
-    <form method="get">
-           <div class="form-group">
-               <div class="input-group">
-                   <input type="search" class="form-control" asp-for="SearchTerm"/>
-                    <span class="input-group-btn">
-                        <button class="btn btn-default">Search</button>
-                    </span>
-               </div>
-           </div>
-    </form>
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">Search</button>
+            </span>
+        </div>
+    </div>
+</form>
 
 
 <table class="table">
-   <thead>
-       <tr>
-           <th>Name</th>
-           <th>Location</th>
-           <th>Cuisine</th>
-           <th></th>
-           <th></th>
-       </tr>
-   </thead>
-    <tbody>
-        @foreach (var restaurant in Model.Restaurants) { 
+    <thead>
         <tr>
-            <td>@restaurant.Name</td>
-            <td>@restaurant.Location</td>
-            <td>@restaurant.Cuisine</td>
-            <td>
-                <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId="@restaurant.ID">Find Out More</a>
-            </td>
-            <td>
-                <a class="btn btn-dark" asp-page="./EditRestaurant" asp-route-restarauntId="@restaurant.ID">Edit Details</a>
-            </td>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Cuisine</th>
+            <th></th>
+            <th></th>
         </tr>
+    </thead>
+    <tbody>
+        @foreach (var restaurant in Model.Restaurants)
+        {
+            <tr>
+                <td>@restaurant.Name</td>
+                <td>@restaurant.Location</td>
+                <td>@restaurant.Cuisine</td>
+                <td>
+                    <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId="@restaurant.ID">Find Out More</a>
+                </td>
+                <td>
+                    <a class="btn btn-dark" asp-page="./EditRestaurant" asp-route-restarauntId="@restaurant.ID">Edit Details</a>
+                </td>
+            </tr>
         }
     </tbody>
 </table>
+<div>
+    <a class="btn btn-danger" asp-page="./CreateRestaurant">Create Restaurant</a>
+</div>

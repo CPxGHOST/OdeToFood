@@ -18,6 +18,8 @@ namespace OdeToFood.data
 
         public Restaurant ModifyRestaurant(Restaurant newRestaurant);
 
+        public Restaurant CreateRestaurant(Restaurant restaurant);
+
         public int Commit();
             
     }
@@ -65,6 +67,17 @@ namespace OdeToFood.data
         public int Commit()
         {
             return 0;
+        }
+
+        public Restaurant CreateRestaurant(Restaurant newRestaurant)
+        {
+            this.restaurants.OrderBy(r => r.ID);
+
+            newRestaurant.ID = this.restaurants[restaurants.Count - 1].ID + 1;
+
+            this.restaurants.Add(newRestaurant);
+
+            return newRestaurant;
         }
     }   
 

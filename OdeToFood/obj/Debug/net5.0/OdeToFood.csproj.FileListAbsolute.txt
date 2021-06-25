@@ -46,3 +46,4 @@ D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\net5.0\OdeToFood.core.pdb
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaraunts\Detail.cshtml.g.cs
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaraunts\NotFound.cshtml.g.cs
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaraunts\EditRestaurant.cshtml.g.cs
+D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Pages\Restaraunts\CreateRestaurant.cshtml.g.cs
