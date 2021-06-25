@@ -15,6 +15,10 @@ namespace OdeToFood.data
         public IEnumerable<Restaurant> GetRestaurantByName(string name);
 
         public Restaurant GetRestaurantById(int id);
+
+        public Restaurant ModifyRestaurant(Restaurant newRestaurant);
+
+        public int Commit();
             
     }
 
@@ -42,6 +46,25 @@ namespace OdeToFood.data
 
             return this.restaurants.SingleOrDefault(r => r.ID == id);
         
+        }
+
+       
+
+        public Restaurant ModifyRestaurant(Restaurant newRestaurant)
+        {
+            var oldRestaurant = this.restaurants.SingleOrDefault(r => r.ID == newRestaurant.ID);
+            if (oldRestaurant != null) {
+                oldRestaurant.Name = newRestaurant.Name;
+                oldRestaurant.Cuisine = newRestaurant.Cuisine;
+                oldRestaurant.Location = newRestaurant.Location;
+            
+            }
+            return oldRestaurant;
+        }
+
+        public int Commit()
+        {
+            return 0;
         }
     }   
 
