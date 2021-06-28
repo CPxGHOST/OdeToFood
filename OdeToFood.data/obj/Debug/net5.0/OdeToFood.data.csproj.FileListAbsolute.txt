@@ -13,3 +13,6 @@ D:\Rough Work\OdeToFood\OdeToFood.data\obj\Debug\net5.0\OdeToFood.data.csproj.Co
 D:\Rough Work\OdeToFood\OdeToFood.data\obj\Debug\net5.0\OdeToFood.data.dll
 D:\Rough Work\OdeToFood\OdeToFood.data\obj\Debug\net5.0\ref\OdeToFood.data.dll
 D:\Rough Work\OdeToFood\OdeToFood.data\obj\Debug\net5.0\OdeToFood.data.pdb
+D:\Rough Work\OdeToFood\OdeToFood.data\bin\Debug\net5.0\OdeToFood.data.runtimeconfig.json
+D:\Rough Work\OdeToFood\OdeToFood.data\bin\Debug\net5.0\OdeToFood.data.runtimeconfig.dev.json
+D:\Rough Work\OdeToFood\OdeToFood.data\obj\Debug\net5.0\OdeToFood.data.genruntimeconfig.cache
