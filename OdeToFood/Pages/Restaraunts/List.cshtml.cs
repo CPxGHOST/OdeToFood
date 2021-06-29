@@ -30,5 +30,7 @@ namespace OdeToFood.Pages.Restaraunts
         {
          this.Restaurants = this.restaurantData.GetRestaurantByName(this.SearchTerm);
         }
+
+      
     }
 }
