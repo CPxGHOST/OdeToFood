@@ -20,6 +20,8 @@ namespace OdeToFood.data
 
         public Restaurant DeleteRestaurant(int id);
 
+        public int CountAllRestaurants();
+
         public int Commit();
             
     }

@@ -19,6 +19,11 @@ namespace OdeToFood.data
             
         }
 
+        public int CountAllRestaurants()
+        {
+            return this.context.Restaurants.Count();
+        }
+
         public Restaurant CreateRestaurant(Restaurant restaurant)
         {
             this.context.Restaurants.Add(restaurant);
