@@ -3,10 +3,15 @@
 @{
 }
 
+@if (Model.Message != null) { 
+    <div class="alert alert-info">@Model.Message</div>
+}
 
 <div>
 
 </div>
+
+
 
 <form method="get">
     <div class="form-group">
@@ -20,37 +25,10 @@
 </form>
 
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Location</th>
-            <th>Cuisine</th>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var restaurant in Model.Restaurants)
-        {
-        <tr>
-            <td>@restaurant.Name</td>
-            <td>@restaurant.Location</td>
-            <td>@restaurant.Cuisine</td>
-            <td>
-                <a class="btn btn-dark" asp-page="./Detail" asp-route-restarauntId="@restaurant.ID">Find Out More</a>
-            </td>
-            <td>
-                <a class="btn btn-dark" asp-page="./EditRestaurant" asp-route-restarauntId="@restaurant.ID">Edit Details</a>
-            </td>
-            <td>
-                <a class="btn btn-dark" asp-page="./List" >Delete Restaurant</a>
-            </td>
-        </tr>
-        }
-    </tbody>
-</table>
+@foreach (var restaurant in Model.Restaurants) { 
+    <partial name="_Summary" model="restaurant" />
+}
+
 <div>
     <a class="btn btn-danger" asp-page="./CreateRestaurant">Create Restaurant</a>
 </div>

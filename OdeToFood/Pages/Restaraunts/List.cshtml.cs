@@ -21,6 +21,9 @@ namespace OdeToFood.Pages.Restaraunts
        
         private readonly IRestaurantData restaurantData;
        
+        [TempData]
+        public String Message { get; set; }
+
         public ListModel( IRestaurantData restaurantData)
         {           
             this.restaurantData = restaurantData;
