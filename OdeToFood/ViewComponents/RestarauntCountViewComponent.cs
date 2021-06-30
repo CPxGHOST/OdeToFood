@@ -15,7 +15,7 @@ namespace OdeToFood.ViewComponents
             this.restaurantData = restaurantData;
         }
 
-        public IViewComponentResult Invoke(){
+        public IViewComponentResult Invoke()    {
             int count = restaurantData.CountAllRestaurants();
 
             return View(count);
