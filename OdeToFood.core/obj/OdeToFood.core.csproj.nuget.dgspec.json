@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rough Work\\OdeToFood\\OdeToFood.core\\OdeToFood.core.csproj": {}
+    "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {}
   },
   "projects": {
-    "D:\\Rough Work\\OdeToFood\\OdeToFood.core\\OdeToFood.core.csproj": {
+    "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rough Work\\OdeToFood\\OdeToFood.core\\OdeToFood.core.csproj",
-        "projectName": "OdeToFood.core",
-        "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.core\\OdeToFood.core.csproj",
+        "projectUniqueName": "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+        "projectName": "OdeToFood.Core",
+        "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
         "packagesPath": "C:\\Users\\mridulchauhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.core\\obj\\",
+        "outputPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
