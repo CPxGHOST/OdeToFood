@@ -3,13 +3,11 @@
 @{
 }
 
-@if (Model.Message != null) { 
+@if (Model.Message != null)
+{
     <div class="alert alert-info">@Model.Message</div>
 }
 
-<div>
-
-</div>
 
 
 
@@ -25,8 +23,10 @@
 </form>
 
 
-@foreach (var restaurant in Model.Restaurants) { 
-    <partial name="_Summary" model="restaurant"/>
+@foreach (var restaurant in Model.Restaurants)
+{
+    <partial name="_Summary" model="restaurant" />
+    <partial name="_Demo" model="null"/>
 }
 
 <div>
