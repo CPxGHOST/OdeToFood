@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/OdeToFood.Core.dll": {}
         }
-      },
-      "OdeToFood.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "OdeToFood.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/OdeToFood.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/OdeToFood.Data.dll": {}
-        }
       }
     }
   },
@@ -32,16 +19,11 @@
       "type": "project",
       "path": "../OdeToFood.Core/OdeToFood.Core.csproj",
       "msbuildProject": "../OdeToFood.Core/OdeToFood.Core.csproj"
-    },
-    "OdeToFood.Data/1.0.0": {
-      "type": "project",
-      "path": "../OdeToFood.Data/OdeToFood.Data.csproj",
-      "msbuildProject": "../OdeToFood.Data/OdeToFood.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "OdeToFood.Data >= 1.0.0"
+      "OdeToFood.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rough Work\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
-      "projectName": "OdeToFood",
-      "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectName": "OdeToFood.Data",
+      "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "packagesPath": "C:\\Users\\mridulchauhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Rough Work\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }
@@ -102,9 +84,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
