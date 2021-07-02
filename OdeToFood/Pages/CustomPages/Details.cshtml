@@ -1,0 +1,13 @@
+﻿@page "{restaurantId:int}"
+@model OdeToFood.Pages.CustomPages.DetailsModel
+@{
+}
+
+<h1>@Model.restaurant.Name</h1>
+<h4>Id : @Model.restaurant.Id</h4>
+<h4>Location : @Model.restaurant.Location</h4>
+<h4>Food Type : @Model.restaurant.CuisineType</h4>
+
+<div class="btn-group">
+    <a class="btn btn-lg btn-primary" asp-page="./List">All Restaurants</a>
+</div>

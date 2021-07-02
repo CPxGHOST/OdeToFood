@@ -9,22 +9,20 @@ using OdeToFood.Data;
 
 namespace OdeToFood.Pages.CustomPages
 {
-    public class ListModel : PageModel
+    public class DetailsModel : PageModel
     {
         private readonly IRestaurantData restaurantData;
+        
+        public Restaurant restaurant;
 
-        public IEnumerable<Restaurant> restaurants;
-
-        [BindProperty(SupportsGet =true)]
-        public string SearchTerm { get; set; }
-
-        public ListModel(IRestaurantData restaurantData) {
+        public DetailsModel(IRestaurantData restaurantData) {
             this.restaurantData = restaurantData;
         }
 
-        public void OnGet()
+        public void OnGet(int restaurantId)
         {
-            this.restaurants = restaurantData.GetRestaraunts(SearchTerm);
+            this.restaurant = restaurantData.GetRestarauntById(restaurantId);
         }
+
     }
 }

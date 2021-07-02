@@ -40,3 +40,5 @@ D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.csproj.CopyC
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\_RestaurantDetails.cshtml.g.cs
+D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\Details.cshtml.g.cs

@@ -3,3 +3,17 @@
 @{
 }
 <h1>List of all restaurants</h1>
+
+<form method="get">
+    <div class="form-group">
+       <div class="input-group">
+           <input type="search" class="form-control" name="SearchTerm"/>
+           <span class="input-group-btn">
+               <button class="btn btn-light">Search</button>
+           </span>
+       </div>
+     </div>
+</form>
+@foreach (var restaurant in Model.restaurants) { 
+    <partial name="_RestaurantDetails" model="restaurant" />
+}

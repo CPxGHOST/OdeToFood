@@ -42,7 +42,8 @@ namespace OdeToFood.Data
         {
 
             var query = from r in this.restaraunts
-                        where term == null || r.Name == term
+                        where term == null || r.Name.StartsWith(term)
+                        orderby r.Name
                         select r;
 
             return query;
