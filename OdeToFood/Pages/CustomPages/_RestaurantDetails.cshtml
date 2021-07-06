@@ -7,7 +7,7 @@
         <h5 class="card-title">Cuisine Type : @Model.CuisineType</h5>
         <p class="card-text">Location : @Model.Location</p>
         <a asp-page="./Details" class="btn btn-info"  asp-route-restaurantId="@Model.Id">Details</a>
-        <a href="#" class="btn btn-primary">Edit</a>
-        <a href="#" class="btn btn-danger">Delete</a>
+        <a asp-page="./EditDetails" class="btn btn-primary" asp-route-restaurantId="@Model.Id">Edit</a>
+        <a asp-page="./DeleteRestaurant" class="btn btn-danger" asp-route-restaurantId ="@Model.Id">Delete</a>
     </div>
 </div>

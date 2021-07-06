@@ -10,3 +10,6 @@ D:\Rough Work\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.cs
 D:\Rough Work\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.csproj.CopyComplete
 D:\Rough Work\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.dll
 D:\Rough Work\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.pdb
+D:\Rough Work\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.json
+D:\Rough Work\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\OdeToFood.Data.runtimeconfig.dev.json
+D:\Rough Work\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\OdeToFood.Data.genruntimeconfig.cache

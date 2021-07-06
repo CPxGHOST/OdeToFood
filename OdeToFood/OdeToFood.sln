@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood.csproj", "{7A70AF86-CA10-4BDF-92E3-A7D3BE3F99B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood", "OdeToFood.csproj", "{7A70AF86-CA10-4BDF-92E3-A7D3BE3F99B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Core", "..\OdeToFood.Core\OdeToFood.Core.csproj", "{BFFADA8F-A094-46C5-9C9E-6D19B5DE0BD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Core", "..\OdeToFood.Core\OdeToFood.Core.csproj", "{BFFADA8F-A094-46C5-9C9E-6D19B5DE0BD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Data", "..\OdeToFood.Data\OdeToFood.Data.csproj", "{45DF96A8-72A1-49FF-92FD-FFB782C579AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OdeToFood.Data", "..\OdeToFood.Data\OdeToFood.Data.csproj", "{45DF96A8-72A1-49FF-92FD-FFB782C579AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,6 +2,11 @@
 @model OdeToFood.Pages.CustomPages.ListModel
 @{
 }
+@if (TempData["Message"] != null) { 
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+
 <h1>List of all restaurants</h1>
 
 <form method="get">
@@ -17,3 +22,5 @@
 @foreach (var restaurant in Model.restaurants) { 
     <partial name="_RestaurantDetails" model="restaurant" />
 }
+
+<a class="btn btn-outline-danger" asp-page="AddRestaurant">Add Restaurant</a>

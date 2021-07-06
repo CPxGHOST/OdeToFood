@@ -1,6 +1,5 @@
 ﻿using OdeToFood.Core;
 using System.Collections.Generic;
-using System.Text;
 
 namespace OdeToFood.Data
 {
@@ -9,8 +8,14 @@ namespace OdeToFood.Data
         public IEnumerable<Restaurant> GetRestaraunts(string term);
 
         public Restaurant GetRestarauntById(int id);
+
+        public Restaurant UpdateRestaurant(Restaurant updatedRestaurant);
+
+        public int Commit();
+
+        public Restaurant SaveRestaurant(Restaurant restaurant);
+
+        public Restaurant DeleteRestaurant(int id);
     
     }
-
-
 }
