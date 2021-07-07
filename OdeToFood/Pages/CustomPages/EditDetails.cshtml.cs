@@ -45,6 +45,7 @@ namespace OdeToFood.Pages.CustomPages
             if (ModelState.IsValid) {
                 restaurantData.UpdateRestaurant(Restaurant);
                 restaurantData.Commit();
+                TempData["Message"] = Restaurant.Name + " Updated!";
                 return RedirectToPage("./Details", new { restaurantId = Restaurant.Id });
             }
 

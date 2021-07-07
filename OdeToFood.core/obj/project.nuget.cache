@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84HcsQssIepbv1wXScPg0qqI+d2bO8iYkc8Xpb1E5K4gaG2O+ObBeFFBcEKuqkH4mf2HBTI0A2WKGCtNf67NKg==",
+  "dgSpecHash": "lhR3dxYdkHOncOpI+vhfQDKNZcN/hzb0A4gHKoismxpUfz4+OVWt34hjSFrFRAIgI1ojWsrK97qLu4eYSeJSag==",
   "success": true,
-  "projectFilePath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "projectFilePath": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

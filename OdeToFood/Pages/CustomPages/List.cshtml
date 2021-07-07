@@ -1,6 +1,7 @@
 ﻿@page
 @model OdeToFood.Pages.CustomPages.ListModel
 @{
+    ViewData["Title"] = "All Restaurants";
 }
 @if (TempData["Message"] != null) { 
     <div class="alert alert-info">@TempData["Message"]</div>

@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rough Work\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\mridulchauhan\\.nuget\\packages\\",
-      "outputPath": "D:\\Rough Work\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5827,8 +5827,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
-              "projectPath": "D:\\Rough Work\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
+            "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj": {
+              "projectPath": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj"
             }
           }
         }

@@ -1,6 +1,12 @@
 ﻿@page "{restaurantId:int}"
 @model OdeToFood.Pages.CustomPages.DetailsModel
 @{
+    ViewData["Title"] = Model.restaurant.Name;
+}
+
+
+@if (TempData["Message"] != null) { 
+    <div class="alert alert-info">@TempData["Message"]</div>
 }
 
 <h1>@Model.restaurant.Name</h1>

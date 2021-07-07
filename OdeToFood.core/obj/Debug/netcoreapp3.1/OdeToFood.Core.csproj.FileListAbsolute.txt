@@ -7,3 +7,12 @@ D:\Rough Work\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.As
 D:\Rough Work\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
 D:\Rough Work\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
 D:\Rough Work\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.AssemblyReference.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb

@@ -1,9 +1,10 @@
 ﻿@page "{restaurantId:int}"
 @model OdeToFood.Pages.CustomPages.DeleteRestaurantModel
 @{
+    ViewData["Title"] = "Delete Restaurant";
 }
-
-    <div class="alert-danger">Are you sure you want to Delete @Model.Restaurant.Name ?</div>
+    <h2>Delete?</h2>
+    <div class="alert alert-danger">Are you sure you want to Delete @Model.Restaurant.Name ?</div>
    
     <form method="post">
         <button type="submit" class="btn btn-danger">Delete</button>
