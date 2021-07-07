@@ -158,6 +158,7 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFo
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.TagHelpers.output.cache
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.RazorCoreGenerate.cache
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\AddRestaurant.cshtml.g.cs
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\ClientRestaurants.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\DeleteRestaurant.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\Details.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\EditDetails.cshtml.g.cs
@@ -167,6 +168,7 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\P
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -178,5 +180,3 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFo
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
-D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\Components\RestaurantCount\Default.cshtml.g.cs
-D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\ClientRestaurants.cshtml.g.cs
