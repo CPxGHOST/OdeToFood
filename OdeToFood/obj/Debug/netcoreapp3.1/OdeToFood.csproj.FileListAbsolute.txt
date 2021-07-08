@@ -180,3 +180,6 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFo
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll

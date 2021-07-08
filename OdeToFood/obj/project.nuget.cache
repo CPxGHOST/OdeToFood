@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kpZbdxOppsH0x+CVLHMhLW9r89CtXzzRFV9osivSZqub5lOeEQqStVvcsD6l270F5NE5K8drNYRo4EhMH8hINA==",
+  "dgSpecHash": "dpB9jJfoLT5Yf1TMBsy56mYJ7yto5xJGs3nAzREi1/oW0ilVhQL3RO32SSPDL2/QScq8U8Bl6J/gp3Aowc4Kwg==",
   "success": true,
   "projectFilePath": "D:\\Github\\Projects\\.Net Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\mridulchauhan\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512",
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\mridulchauhan\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
