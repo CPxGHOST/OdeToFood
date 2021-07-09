@@ -1,0 +1,3 @@
+c:\temp\OdeToFood\OdeToFood.Core.dll
+c:\temp\OdeToFood\OdeToFood.Core.deps.json
+c:\temp\OdeToFood\OdeToFood.Core.pdb

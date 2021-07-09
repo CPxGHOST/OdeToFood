@@ -1,0 +1,15 @@
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.deps.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.runtimeconfig.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.runtimeconfig.dev.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.pdb
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp3.1\win-x64\OdeToFood.Core.pdb
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.AssemblyInfoInputs.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.AssemblyInfo.cs
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.csproj.CopyComplete
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.pdb
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.genruntimeconfig.cache
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp3.1\win-x64\OdeToFood.Data.csproj.AssemblyReference.cache
