@@ -90,6 +90,9 @@ D:\Rough Work\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.EntityFramew
 D:\Rough Work\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\Razor\Pages\CustomPages\DeleteRestaurant.cshtml.g.cs
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package.json
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.exe
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.deps.json
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToFood.runtimeconfig.json
@@ -121,6 +124,7 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microso
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
@@ -180,6 +184,3 @@ D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFo
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.dll
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.pdb
 D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp3.1\OdeToFood.genruntimeconfig.cache
-D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package-lock.json
-D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\package.json
-D:\Github\Projects\.Net Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp3.1\OdeToCode.UseNodeModules.dll

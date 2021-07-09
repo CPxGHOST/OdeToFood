@@ -37,6 +37,7 @@ D:\Github\Projects\.Net Core\OdeToFood\Published\wwwroot\lib\jquery\dist\jquery.
 D:\Github\Projects\.Net Core\OdeToFood\Published\wwwroot\lib\jquery\LICENSE.txt
 D:\Github\Projects\.Net Core\OdeToFood\Published\appsettings.Development.json
 D:\Github\Projects\.Net Core\OdeToFood\Published\appsettings.json
+D:\Github\Projects\.Net Core\OdeToFood\Published\appsettings.Production.json
 D:\Github\Projects\.Net Core\OdeToFood\Published\package-lock.json
 D:\Github\Projects\.Net Core\OdeToFood\Published\package.json
 D:\Github\Projects\.Net Core\OdeToFood\Published\node_modules\datatables.net-dt\css\jquery.dataTables.css
